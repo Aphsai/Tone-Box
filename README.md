@@ -2,4 +2,4 @@
 
 Uses Webkit Audio API and Canvas. 
 
-Demo [here](aphsai.github.io/Tone-Box)
+Demo [here](www.aphsai.me/Tone-Box)
